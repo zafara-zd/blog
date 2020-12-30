@@ -8,7 +8,7 @@
 
 # 描述/签名
 name: 石鸦的博客
-description: 游戏分析、学习笔记、开发记录、个人作品、安利测评、游戏设计理论与杂七杂八的文章
+description: 就让世界沦为汪洋大海吧，别了，山林！
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -49,12 +49,11 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  bilibili: https://space.bilibili.com/1918405
-  email: zzhhaannggddii22@sina.com (反正从来不看)
-  qq: 471389227
+  email: zzhhaannggddii22@sina.com
+  
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2021
+footer-text: 页脚的文字有啥子用呢（挠头）
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
