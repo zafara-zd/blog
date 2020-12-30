@@ -17,6 +17,6 @@ toc: true
 
 以及一张BGG用户基于自己的素材，实际游玩的照片
 
-!(https://cf.geekdo-images.com/HGjShfHgIBvphURTXTNe9A__imagepagezoom/img/F2U1c0pHHCPC9FDs1QCOTc42uuI=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2845216.jpg "实际游玩照片")
+![实际游戏体验](https://cf.geekdo-images.com/HGjShfHgIBvphURTXTNe9A__imagepagezoom/img/F2U1c0pHHCPC9FDs1QCOTc42uuI=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2845216.jpg "实际游玩照片")
 用户ID:James
 地址：https://www.boardgamegeek.com/image/2845216/onitama
