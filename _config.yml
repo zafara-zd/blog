@@ -24,10 +24,10 @@ baseurl: /zafara-s_bizarre_blog
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: 
+avatar: https://sm.ms/image/PNZzs91hgSVCino
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: 
+favicon: https://sm.ms/image/PNZzs91hgSVCino
 
 
 # 菜单中的按钮
@@ -49,9 +49,9 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
-  email: #youremailaddress@mail.com
-  rss: #随便填点啥RSS就能用了
+  bilibili: https://space.bilibili.com/1918405
+  email: zzhhaannggddii22@sina.com (反正从来不看)
+  qq: 471389227
 
 # 站点页脚的文字
 footer-text: Copyright (c) 2021
