@@ -16,7 +16,7 @@ url:
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /zafara-s_bizarre_blog
+baseurl: /blog
 
 
 #
@@ -64,7 +64,7 @@ footer-text: Copyright (c) 2021
 gitalk:
   clientID: ca89174aaa918228f699
   clientSecret: 969620c62992e1d6f80b845e0da437c5bac2f8e7
-  repo: zafara-s_bizarre_blog
+  repo: blog
   owner: zafara-zd
 
 
