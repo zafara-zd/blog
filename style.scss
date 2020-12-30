@@ -30,6 +30,12 @@ margin-right: 100px;
 max-width: 1220px;
 padding-left: 220px;
 width: 100%;
+	@include mobile {
+	margin-right: 0px;
+	max-width: 1000px;
+	padding-left: 0px;
+	width: 100%;
+ 	}
 }
 
 h1, h2, h3, h4, h5, h6 {
