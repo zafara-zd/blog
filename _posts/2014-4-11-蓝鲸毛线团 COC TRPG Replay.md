@@ -3,7 +3,7 @@ layout: post
 title: 蓝鲸毛线团 COC TRPG Replay
 date: 2014-4-11
 Author: Zafara
-tags: [桌游,trpg,个人作品]
+tags: [桌游,trpg,个人作品,视频]
 comments: true
 toc: true
 ---
