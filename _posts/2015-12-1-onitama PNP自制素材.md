@@ -3,7 +3,7 @@ layout: post
 title: onitama PNP自制素材
 date: 2015-12-1
 Author: Zafara
-tags: [个人作品, 桌游，素材]
+tags: [个人作品, 桌游,素材]
 comments: true
 toc: true
 ---
