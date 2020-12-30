@@ -8,7 +8,7 @@ comments: true
 toc: true
 ---
 
-原游戏onitama BGG地址：https://www.boardgamegeek.com/boardgame/160477/onitama
+原游戏onitama BGG地址：<https://www.boardgamegeek.com/boardgame/160477/onitama>
 
 ![版图图片](https://cf.geekdo-images.com/N0xG7SOPzkUkSC2DxfHVoQ__imagepagezoom/img/VaGLiy-t4zIWv5HCrvUzEn9rihw=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2821189.jpg "版图") 
 <center>版图图片</center>
@@ -21,4 +21,4 @@ toc: true
 ![实际游戏体验](https://cf.geekdo-images.com/HGjShfHgIBvphURTXTNe9A__imagepagezoom/img/F2U1c0pHHCPC9FDs1QCOTc42uuI=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2845216.jpg "实际游玩照片")
 <center>实际游戏体验</center>
 用户ID:James
-地址：https://www.boardgamegeek.com/image/2845216/onitama
+地址：<https://www.boardgamegeek.com/image/2845216/onitama>
