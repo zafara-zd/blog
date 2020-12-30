@@ -60,9 +60,6 @@ footer-text: Copyright (c) 2021
 # 评论，注意，请不要同时添加多种不同的评论区
 #
 
-# 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: loffer #shortname
-
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
   clientID: ca89174aaa918228f699
