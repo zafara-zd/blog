@@ -10,7 +10,7 @@ toc: true
 
 原游戏onitama BGG地址：https://www.boardgamegeek.com/boardgame/160477/onitama
 
-<div align="center">![测试1](https://cf.geekdo-images.com/N0xG7SOPzkUkSC2DxfHVoQ__imagepagezoom/img/VaGLiy-t4zIWv5HCrvUzEn9rihw=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2821189.jpg "测试2")
+<div align="center">![测试1](https://cf.geekdo-images.com/N0xG7SOPzkUkSC2DxfHVoQ__imagepagezoom/img/VaGLiy-t4zIWv5HCrvUzEn9rihw=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2821189.jpg)
 条件随机场模型示意图 </div>
 
 ![版图图片](https://cf.geekdo-images.com/N0xG7SOPzkUkSC2DxfHVoQ__imagepagezoom/img/VaGLiy-t4zIWv5HCrvUzEn9rihw=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2821189.jpg "版图") 
