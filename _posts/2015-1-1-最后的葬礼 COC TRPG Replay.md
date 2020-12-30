@@ -3,7 +3,7 @@ layout: post
 title: 最后的葬礼 COC TRPG Replay
 date: 2015-1-1
 Author: Zafara
-tags: [桌游，trpg,个人作品]
+tags: [桌游,trpg,个人作品]
 comments: true
 toc: true
 ---
