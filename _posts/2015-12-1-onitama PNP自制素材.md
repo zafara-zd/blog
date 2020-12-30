@@ -11,7 +11,7 @@ toc: true
 原游戏onitama BGG地址：https://www.boardgamegeek.com/boardgame/160477/onitama
 
 <div align="center">![测试1](https://cf.geekdo-images.com/N0xG7SOPzkUkSC2DxfHVoQ__imagepagezoom/img/VaGLiy-t4zIWv5HCrvUzEn9rihw=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2821189.jpg)
-条件随机场模型示意图 </div>
+测试2 </div>
 
 ![版图图片](https://cf.geekdo-images.com/N0xG7SOPzkUkSC2DxfHVoQ__imagepagezoom/img/VaGLiy-t4zIWv5HCrvUzEn9rihw=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2821189.jpg "版图") 
 <center>版图图片</center>
@@ -21,8 +21,7 @@ toc: true
 <center>牌背</center>
 
 以及一张BGG用户基于自己的素材，实际游玩的照片
-
-<div align=center>![实际游戏体验](https://cf.geekdo-images.com/HGjShfHgIBvphURTXTNe9A__imagepagezoom/img/F2U1c0pHHCPC9FDs1QCOTc42uuI=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2845216.jpg "实际游玩照片")
+![实际游戏体验](https://cf.geekdo-images.com/HGjShfHgIBvphURTXTNe9A__imagepagezoom/img/F2U1c0pHHCPC9FDs1QCOTc42uuI=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2845216.jpg "实际游玩照片")
 <center>实际游戏体验</center>
 用户ID:James
 地址：https://www.boardgamegeek.com/image/2845216/onitama
