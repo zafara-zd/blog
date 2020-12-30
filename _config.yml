@@ -7,8 +7,8 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: zafara's bizarre blog
-description: 石鸦的博客
+name: 石鸦的博客
+description: 游戏分析、学习笔记、开发记录、个人作品、安利测评、游戏设计理论与杂七杂八的文章
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
