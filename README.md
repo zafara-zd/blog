@@ -12,7 +12,7 @@ github上的图片看不了？
 打开文件： C:\Windows\System32\drivers\etc\hosts
 在文件末尾添加：
 
-# GitHub Start 
+\# GitHub Start 
 140.82.113.3      github.com
 140.82.114.20     gist.github.com
  
@@ -40,4 +40,4 @@ github上的图片看不了？
 151.101.184.133    avatars8.githubusercontent.com
 199.232.68.133     avatars8.githubusercontent.com
  
-# GitHub End
+\# GitHub End
