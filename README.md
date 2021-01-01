@@ -6,8 +6,10 @@
 
 Templet作者链接：https://github.com/FromEndWorld/LOFFER
 
+#### 如何置顶文章
+在头部添加：pinned: true
 
-github上的图片看不了？
+#### github上的图片看不了？
 修改hosts
 打开文件： C:\Windows\System32\drivers\etc\hosts
 在文件末尾添加：
