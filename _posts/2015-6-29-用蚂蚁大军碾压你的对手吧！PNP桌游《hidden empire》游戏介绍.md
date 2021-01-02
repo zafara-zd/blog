@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 用蚂蚁大军碾压你的对手吧！PNP桌游hidden empire游戏介绍
+title: 用蚂蚁大军碾压你的对手吧！PNP桌游《hidden empire》游戏介绍
 date: 2015-6-29
 Author: Zafara
 tags: [桌游,安利]
