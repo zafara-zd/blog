@@ -40,8 +40,6 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
-  - name: 搜索
-    url: /search
 
 # 每页的文章数
 paginate: 10
