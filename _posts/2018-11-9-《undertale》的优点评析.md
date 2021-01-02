@@ -1,6 +1,6 @@
 ---
 layout: post
-title: undertale的优点评析
+title: 《undertale》的优点评析
 date: 2018-11-9
 Author: Zafara
 tags: [游戏设计分析,随笔]
