@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Undertale的开端设计分析
+title: 《Undertale》的开端设计分析
 date: 2018-11-9
 Author: Zafara
 tags: [游戏设计分析,随笔]
