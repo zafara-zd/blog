@@ -7,8 +7,9 @@
 Templet作者链接：https://github.com/FromEndWorld/LOFFER
 
 #### 标题由谁决定
-github上文件命名仅用来自己进行管理
-pages上展示的实际页面标题、日期和链接由文章顶部表格内容决定
+github上文件命名用来**生成链接**，也就是github上命名不要轻易修改，尤其对于有链接的。
+
+pages上展示的实际页面标题、日期和链接由文章顶部表格内容决定，可以随意修改。
 
 #### 如何置顶文章
 在头部添加：pinned: true
