@@ -3,7 +3,7 @@ layout: post
 title: 《Tribattle》项目总结与反思
 date: 2021-8-5
 Author: Zafara
-tags: [项目]
+tags: [开发记录]
 comments: true
 toc: true
 ---
